@@ -12,3 +12,5 @@ The dataset has been taken from kaggle(https://www.kaggle.com/fivethirtyeight/ub
 #About the Project:
 
 In this project I have performed some EDA methods in order to get the insights of the dataset i.e about the cab booking patern.In the last i have performed kmeans clustering. Whose visualization can be performed by using the google maps api credentials.
+
+I have also included the small ppt and report of the project.
